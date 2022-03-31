@@ -44,3 +44,5 @@ def checkPangram(strin):
         return True
     else:
         return False
+ def checkTemm(numin):
+     return numin+1*24
